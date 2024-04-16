@@ -1,0 +1,25 @@
+body, pre {
+ text-align: center;
+ font-family: "Comic Sans MS";
+ padding: 25px;
+}
+
+a:link, a:visited {
+  color: #0000ee;
+  text-decoration: none;
+}
+
+pre {
+  font-family: "Comic Sans MS";
+  white-space: pre-wrap;
+}
+
+h3 {
+  padding-top: 20px;
+}
+
+.score {
+  color: green;
+  text-align: center;
+  font-family: Comic Sans MS;
+}
