@@ -1,4 +1,4 @@
-body, pre {
+body,pre {
  text-align: center;
  font-family: "Comic Sans MS";
  padding: 25px;
@@ -10,12 +10,14 @@ a:link, a:visited {
 }
 
 pre {
-  font-family: "Comic Sans MS";
+  font-family: Arial,Sans-Serif;
   white-space: pre-wrap;
+  line-height: 1.5;
 }
 
 h3 {
   padding-top: 20px;
+  color: red;
 }
 
 .score {
@@ -27,4 +29,6 @@ h3 {
   margin: auto;
   padding: 10px;
   width: 150px;
+  margin-top: 10px;
+  margin-bottom: 50px;
 }
