@@ -1,18 +1,16 @@
-body,pre {
+body {
  text-align: center;
  font-family: "Comic Sans MS";
- padding: 25px;
+ padding: 10px;
+}
+
+p {
+ line-height: 1.5;
 }
 
 a:link, a:visited {
   color: #0000ee;
   text-decoration: none;
-}
-
-pre {
-  font-family: Arial,Sans-Serif;
-  white-space: pre-wrap;
-  line-height: 1.5;
 }
 
 h3 {
