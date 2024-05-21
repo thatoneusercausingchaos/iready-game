@@ -1,6 +1,6 @@
-body {
+html, body {
  text-align: center;
- font-family: "Comic Sans MS";
+ font-family: Arial,Sans-Serif;
  padding: 10px;
 }
 
