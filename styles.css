@@ -1,21 +1,28 @@
-html, body {
+:root {
+  scroll-behavior: smooth;
+}
+
+html,body {
  text-align: center;
- font-family: Arial,Sans-Serif;
- padding: 10px;
+ font-family: "Comic Sans MS";
+ padding: 20px;
 }
 
 p {
- line-height: 1.5;
-}
-
-a:link, a:visited {
-  color: #0000ee;
-  text-decoration: none;
+  line-height: 1.5;
 }
 
 h3 {
   padding-top: 20px;
   color: red;
+}
+
+.button {
+  display: block;
+  margin: auto;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
 }
 
 .score {
